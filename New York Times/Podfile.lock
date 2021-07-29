@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (6.3.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - ObjectMapper (3.5.3)
+  - SkeletonView (1.15.0)
+  - SwiftyJSON (5.0.1)
+  - UIScrollView-InfiniteScroll (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.1)
+  - Kingfisher
+  - NVActivityIndicatorView
+  - ObjectMapper (~> 3.4)
+  - SkeletonView
+  - SwiftyJSON
+  - UIScrollView-InfiniteScroll
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - SkeletonView
+    - SwiftyJSON
+    - UIScrollView-InfiniteScroll
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SkeletonView: cac18a3ac4f893b09d99e65072d806ef08377aae
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  UIScrollView-InfiniteScroll: 3ef456bcbe759c19f510a383cff96e6647c98c98
+
+PODFILE CHECKSUM: 9dc6ce8e9328ec183584a004bdbb025387d63616
+
+COCOAPODS: 1.10.0
